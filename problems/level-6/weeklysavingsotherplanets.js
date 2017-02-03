@@ -25,7 +25,6 @@
 //
 //
 
-
 function finance(x){
   var count = 0;
   function plustorial(x){
